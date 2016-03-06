@@ -179,7 +179,7 @@ section .bio:last-child {
 section .bio .info {
   float: right;
   width: 75%;
-  font-size: .7em;
+  font-size: .9em;
   line-height: 160%;
 }
 section .bio .photo {
